@@ -1,6 +1,6 @@
 /**
  * @author Enrique Fdez
- * @version 1
+ * @version 1.0
  */
 public class Main {
     /**
